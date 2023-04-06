@@ -24,7 +24,7 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
-    <p>Banana ha  account toh tick kr <a href="/githubcod/hello-world/webapp/src/main/webapp/terms.jsp">Terms & Privacy</a>.</p>
+    <p>Banana ha  account toh tick kr <a href="/webapp/src/main/webapp/terms.jsp">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
