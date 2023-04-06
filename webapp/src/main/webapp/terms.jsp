@@ -3,11 +3,11 @@
     <h1>New user Register for Trasnlab tech  Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-     
+
     <label for="Name"><b>Namm likh apna </b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
-    
+
     <label for="mobile"><b>mobile number dal apna</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
@@ -24,7 +24,7 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
-    <p>Banana ha  account toh tick kr <a href="/githubcod/hello-world/webapp/src/main/webapp/terms.jsp">Terms & Privacy</a>.</p>
+    <p>Banana ha  account toh tick kr <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
@@ -33,5 +33,5 @@
 
    <h1> Thankyou, Happy Learning </h1>
 
-  
+
 </form>
